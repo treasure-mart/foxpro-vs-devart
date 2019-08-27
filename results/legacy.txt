@@ -1,0 +1,363 @@
+Row #0 $row['descrip'] returns "Solutions Storage Box, Small - Translucent                      "
+Row #0 $row['DESCRIP'] returns ""
+
+Row #1 $row['descrip'] returns "Zerust Anti-Tarnish Dividers, 12 Pack - Teal                    "
+Row #1 $row['DESCRIP'] returns ""
+
+Row #2 $row['descrip'] returns "Zerust Anti-Tarnish Dividers, 12 Pack - Teal                    "
+Row #2 $row['DESCRIP'] returns ""
+
+Row #3 $row['descrip'] returns "Zerust Anti-Tarnish Dividers, 12 Pack - Teal                    "
+Row #3 $row['DESCRIP'] returns ""
+
+Row #4 $row['descrip'] returns "Store In Drawer Cabinet, White (W/9 Translucent Drawers)        "
+Row #4 $row['DESCRIP'] returns ""
+
+Row #5 $row['descrip'] returns "Store In Drawer Dividers, 10 Pack                               "
+Row #5 $row['DESCRIP'] returns ""
+
+Row #6 $row['descrip'] returns "Mini Sidekick                                                   "
+Row #6 $row['DESCRIP'] returns ""
+
+Row #7 $row['descrip'] returns "Paint Storage Tray, Wood                                        "
+Row #7 $row['DESCRIP'] returns ""
+
+Row #8 $row['descrip'] returns "Tote Folio, Artist Portfolio - Black                            "
+Row #8 $row['DESCRIP'] returns ""
+
+Row #9 $row['descrip'] returns "Brush Folio, Black/Gray                                         "
+Row #9 $row['DESCRIP'] returns ""
+
+Row #10 $row['descrip'] returns "Store In Drawer Cabinet, White (W/30 Translucent Drawers)       "
+Row #10 $row['DESCRIP'] returns ""
+
+Row #11 $row['descrip'] returns "Paint Pallet (2 Pack)                                           "
+Row #11 $row['DESCRIP'] returns ""
+
+Row #12 $row['descrip'] returns "Sketch Board                                                    "
+Row #12 $row['DESCRIP'] returns ""
+
+Row #13 $row['descrip'] returns "Zerust Anti-Tarnish Box, Medium 6 compt. - Translucent          "
+Row #13 $row['DESCRIP'] returns ""
+
+Row #14 $row['descrip'] returns "Zerust Anti-Tarnish Box, Large 4 compt. - Translucent           "
+Row #14 $row['DESCRIP'] returns ""
+
+Row #15 $row['descrip'] returns "Pen & Nib Box, Clear polymer                                    "
+Row #15 $row['DESCRIP'] returns ""
+
+Row #16 $row['descrip'] returns "Vinyl Storage Rack                                              "
+Row #16 $row['DESCRIP'] returns ""
+
+Row #17 $row['descrip'] returns "Zerust Anti-Tarnish Box, Super Satchel Slim - Translucent       "
+Row #17 $row['DESCRIP'] returns ""
+
+Row #18 $row['descrip'] returns "Quick View Case, With Removable Bins                            "
+Row #18 $row['DESCRIP'] returns ""
+
+Row #19 $row['descrip'] returns "Box, Quickview 12.5In - Aqua Accents W/Removable Dividers       "
+Row #19 $row['DESCRIP'] returns ""
+
+Row #20 $row['descrip'] returns "Box, Quickview Dbl 12.5In - Aqua Accents W/Removable Dividers   "
+Row #20 $row['DESCRIP'] returns ""
+
+Row #21 $row['descrip'] returns "Sketch Pac, Translucent/Black                                   "
+Row #21 $row['DESCRIP'] returns ""
+
+Row #22 $row['descrip'] returns "Small Project Box, Translucent                                  "
+Row #22 $row['DESCRIP'] returns ""
+
+Row #23 $row['descrip'] returns "One Tray Art Supply Box                                         "
+Row #23 $row['DESCRIP'] returns ""
+
+Row #24 $row['descrip'] returns "Two Tray Art Supply Box                                         "
+Row #24 $row['DESCRIP'] returns ""
+
+Row #25 $row['descrip'] returns "Three Tray Art Supply Box                                       "
+Row #25 $row['DESCRIP'] returns ""
+
+Row #26 $row['descrip'] returns "Pencil/Utitlity Box, Translucent Charcoal                       "
+Row #26 $row['DESCRIP'] returns ""
+
+Row #27 $row['descrip'] returns "Box, 4 X 4 Slim Line - Open Core 2Pk                            "
+Row #27 $row['DESCRIP'] returns ""
+
+Row #28 $row['descrip'] returns "Box, Slim Line - Clear                                          "
+Row #28 $row['DESCRIP'] returns ""
+
+Row #29 $row['descrip'] returns "Tote Folio, XL - Black                                          "
+Row #29 $row['DESCRIP'] returns ""
+
+Row #30 $row['descrip'] returns "Compartments, 4 X 4 Slim Line - 6 Compartments 2Pk              "
+Row #30 $row['DESCRIP'] returns ""
+
+Row #31 $row['descrip'] returns "Compartments, 4 X 4 Slim Line - 10 Compartments 2Pk             "
+Row #31 $row['DESCRIP'] returns ""
+
+Row #32 $row['descrip'] returns "Sketch Pouch, Black                                             "
+Row #32 $row['DESCRIP'] returns ""
+
+Row #33 $row['descrip'] returns "Essentials, 12X12 Box W/Grip Area - Translucent Clear           "
+Row #33 $row['DESCRIP'] returns ""
+
+Row #34 $row['descrip'] returns "Box, Essentials 12 X 12 w/Handle - Clear                        "
+Row #34 $row['DESCRIP'] returns ""
+
+Row #35 $row['descrip'] returns "Micro Sidekick, Translucent with black handle and latch.        "
+Row #35 $row['DESCRIP'] returns ""
+
+Row #36 $row['descrip'] returns "Sidekick XL, Black                                              "
+Row #36 $row['DESCRIP'] returns ""
+
+Row #37 $row['descrip'] returns "17" Twin Top Supply Box, Black                                  "
+Row #37 $row['DESCRIP'] returns ""
+
+Row #38 $row['descrip'] returns "17" Twin Top Supply Box, Clear with White Handle and Latches    "
+Row #38 $row['DESCRIP'] returns ""
+
+Row #39 $row['descrip'] returns "Tote Express, Gray/Black                                        "
+Row #39 $row['DESCRIP'] returns ""
+
+Row #40 $row['descrip'] returns "Box, Super Semi-Satchel - Aqua Accents                          "
+Row #40 $row['DESCRIP'] returns ""
+
+Row #41 $row['descrip'] returns "Box, Super Semi-Satchel - Translucent                           "
+Row #41 $row['DESCRIP'] returns ""
+
+Row #42 $row['descrip'] returns "Hook & Needle Nook, Gray                                        "
+Row #42 $row['DESCRIP'] returns ""
+
+Row #43 $row['descrip'] returns "Hook & Needle Nook, Periwinkle                                  "
+Row #43 $row['DESCRIP'] returns ""
+
+Row #44 $row['descrip'] returns "Needle Arts Caddy, Gray Print                                   "
+Row #44 $row['DESCRIP'] returns ""
+
+Row #45 $row['descrip'] returns "Solutions Cake Decorating  Storage Box, Trans./Red Latches      "
+Row #45 $row['DESCRIP'] returns ""
+
+Row #46 $row['descrip'] returns "Needle Arts Caddy, Navy                                         "
+Row #46 $row['DESCRIP'] returns ""
+
+Row #47 $row['descrip'] returns "Box, Marker Storage Satchel - Clear                             "
+Row #47 $row['DESCRIP'] returns ""
+
+Row #48 $row['descrip'] returns "Easy View Cake Decorating Storage Cabinet, Trans./Red Latches   "
+Row #48 $row['DESCRIP'] returns ""
+
+Row #49 $row['descrip'] returns "Box, Solutions Sewing Cabinet                                   "
+Row #49 $row['DESCRIP'] returns ""
+
+Row #50 $row['descrip'] returns "Trays, Essentials Lift-Out - Clear w/Aqua Latches & Handle      "
+Row #50 $row['DESCRIP'] returns ""
+
+Row #51 $row['descrip'] returns "Trays, Marker Storage - White                                   "
+Row #51 $row['DESCRIP'] returns ""
+
+Row #52 $row['descrip'] returns "Jar, Twisterz - Small/Short Translucent                         "
+Row #52 $row['DESCRIP'] returns ""
+
+Row #53 $row['descrip'] returns "Jar, Twisterz - 3 Pack Small/Short (Multi-Colored Lids)         "
+Row #53 $row['DESCRIP'] returns ""
+
+Row #54 $row['descrip'] returns "Jar, Twisterz - Small/Tall Translucent                          "
+Row #54 $row['DESCRIP'] returns ""
+
+Row #55 $row['descrip'] returns "Jar, Twisterz - 3 Pack Small/Tall (Multi-Colored Lids)          "
+Row #55 $row['DESCRIP'] returns ""
+
+Row #56 $row['descrip'] returns "Jar, Twisterz - Large/Short Translucent                         "
+Row #56 $row['DESCRIP'] returns ""
+
+Row #57 $row['descrip'] returns "Jar, Twisterz - 3 Pack Large/Short (Multi-Colored Lids)         "
+Row #57 $row['DESCRIP'] returns ""
+
+Row #58 $row['descrip'] returns "Jar, Twisterz - Large/Tall Translucent                          "
+Row #58 $row['DESCRIP'] returns ""
+
+Row #59 $row['descrip'] returns "Jar, Twisterz - 3 Pack Large/Tall (Multi-Colored Lids)          "
+Row #59 $row['DESCRIP'] returns ""
+
+Row #60 $row['descrip'] returns "Zerust Anti-Tarnish Box, Medium 4 Compt. - Translucent          "
+Row #60 $row['DESCRIP'] returns ""
+
+Row #61 $row['descrip'] returns "Box, Super Satchel Electronic Cartridge Storage-Trans W/Green La"
+Row #61 $row['DESCRIP'] returns ""
+
+Row #62 $row['descrip'] returns "Zerust Anti-Tarnish Twisterz Jar, Large/Short Translucent       "
+Row #62 $row['DESCRIP'] returns ""
+
+Row #63 $row['descrip'] returns "Box, 4 X 6 Photo & Supply                                       "
+Row #63 $row['DESCRIP'] returns ""
+
+Row #64 $row['descrip'] returns "Zerust Anti-Tarnish Twisterz Jar, Large/Tall Translucent        "
+Row #64 $row['DESCRIP'] returns ""
+
+Row #65 $row['descrip'] returns "Zerust Anti-Tarnish Twisterz Jar, Small/Short Translucent       "
+Row #65 $row['DESCRIP'] returns ""
+
+Row #66 $row['descrip'] returns "Zerust Anti-Tarnish Twisterz Jar, Small/Tall Translucent        "
+Row #66 $row['DESCRIP'] returns ""
+
+Row #67 $row['descrip'] returns "Trays, Bottle Storage - White                                   "
+Row #67 $row['DESCRIP'] returns ""
+
+Row #68 $row['descrip'] returns "Clearview Case, Translucent (5X5)                               "
+Row #68 $row['DESCRIP'] returns ""
+
+Row #69 $row['descrip'] returns "Box, Essentials 6 X 6 - Clear                                   "
+Row #69 $row['DESCRIP'] returns ""
+
+Row #70 $row['descrip'] returns "Super Satchel, 1 Compartment - Aqua                             "
+Row #70 $row['DESCRIP'] returns ""
+
+Row #71 $row['descrip'] returns "Compartments, Super Satchel - 1 Compartment - Clear             "
+Row #71 $row['DESCRIP'] returns ""
+
+Row #72 $row['descrip'] returns "Super Satchel, 1 Compartment - Coral                            "
+Row #72 $row['DESCRIP'] returns ""
+
+Row #73 $row['descrip'] returns "Super Satchel, 1 Compartment - Mint                             "
+Row #73 $row['DESCRIP'] returns ""
+
+Row #74 $row['descrip'] returns "Super Satchel, 1 Compartment - Blush                            "
+Row #74 $row['DESCRIP'] returns ""
+
+Row #75 $row['descrip'] returns "Slime Box                                                       "
+Row #75 $row['DESCRIP'] returns ""
+
+Row #76 $row['descrip'] returns "Box, Bottle Storage Satchel - Clear                             "
+Row #76 $row['DESCRIP'] returns ""
+
+Row #77 $row['descrip'] returns "Case, 15" Quick View Case-Deep Base - Open Core-Trans.          "
+Row #77 $row['DESCRIP'] returns ""
+
+Row #78 $row['descrip'] returns "Quick View Case, 15" Deep Base/Div. Interior - Trans.           "
+Row #78 $row['DESCRIP'] returns ""
+
+Row #79 $row['descrip'] returns "Trays, 15" Quick View Case-Deep Base - Div. Interior/Lift-Out Tr"
+Row #79 $row['DESCRIP'] returns ""
+
+Row #80 $row['descrip'] returns "Quick View Bead Box                                             "
+Row #80 $row['DESCRIP'] returns ""
+
+Row #81 $row['descrip'] returns "Craft Caddy, Black/Gray                                         "
+Row #81 $row['DESCRIP'] returns ""
+
+Row #82 $row['descrip'] returns "Lift-Out Tray Box, 14" - Trans. w/Black Latches & Handles       "
+Row #82 $row['DESCRIP'] returns ""
+
+Row #83 $row['descrip'] returns "Super Satchel, With Bins                                        "
+Row #83 $row['DESCRIP'] returns ""
+
+Row #84 $row['descrip'] returns "Lift-Out Tray Box, 16" - Trans. w/Black Latches & Handles       "
+Row #84 $row['DESCRIP'] returns ""
+
+Row #85 $row['descrip'] returns "3 Pack Bins with Lids                                           "
+Row #85 $row['DESCRIP'] returns ""
+
+Row #86 $row['descrip'] returns "Case, 7" Quick View Case - Deep Base Clear Trans. w/Black       "
+Row #86 $row['DESCRIP'] returns ""
+
+Row #87 $row['descrip'] returns "Case, 10" Quick View Carrying Case-Deep Base - Trans. Cle       "
+Row #87 $row['DESCRIP'] returns ""
+
+Row #88 $row['descrip'] returns "Case, 12" Quick View Carrying Case-Deep Base - Clear            "
+Row #88 $row['DESCRIP'] returns ""
+
+Row #89 $row['descrip'] returns "Case, Magnetic Die Storage                                      "
+Row #89 $row['DESCRIP'] returns ""
+
+Row #90 $row['descrip'] returns "Magnetic Die Sheets - 3 Pack                                    "
+Row #90 $row['DESCRIP'] returns ""
+
+Row #91 $row['descrip'] returns "Super Satchel Deluxe, Trans. - Divided Lid/1 Compartment Base   "
+Row #91 $row['DESCRIP'] returns ""
+
+Row #92 $row['descrip'] returns "Super Satchel Deluxe, Translucent - Divided Lid/Divided Base    "
+Row #92 $row['DESCRIP'] returns ""
+
+Row #93 $row['descrip'] returns "Zerust Anti-Tarnish Box, Extra Long - Translucent               "
+Row #93 $row['DESCRIP'] returns ""
+
+Row #94 $row['descrip'] returns "Super Satchel Double Deep, w/Removable Div. Aqua                "
+Row #94 $row['DESCRIP'] returns ""
+
+Row #95 $row['descrip'] returns "Box, Super Satchel Double Deep - Clear w/Removeable Divider     "
+Row #95 $row['DESCRIP'] returns ""
+
+Row #96 $row['descrip'] returns "Super Satchel Double Deep, w/Removable Div. Coral               "
+Row #96 $row['DESCRIP'] returns ""
+
+Row #97 $row['descrip'] returns "Box, Super Satchel Double Deep - Aqua Accents w/Removable Divdr "
+Row #97 $row['DESCRIP'] returns ""
+
+Row #98 $row['descrip'] returns "Super Satchel Double Deep, W/Removable Div. - Rose Gold         "
+Row #98 $row['DESCRIP'] returns ""
+
+Row #99 $row['descrip'] returns "Solutions Cabinet, Aqua                                         "
+Row #99 $row['DESCRIP'] returns ""
+
+Row #100 $row['descrip'] returns "Solutions Cabinet, White                                        "
+Row #100 $row['DESCRIP'] returns ""
+
+Row #101 $row['descrip'] returns "Fabric Strip Case                                               "
+Row #101 $row['DESCRIP'] returns ""
+
+Row #102 $row['descrip'] returns "Sew-lutions Sewing Supply Storage System, Translucent           "
+Row #102 $row['DESCRIP'] returns ""
+
+Row #103 $row['descrip'] returns "Quick View Carrying Case, Small - Std. Base/Clear Trans.        "
+Row #103 $row['DESCRIP'] returns ""
+
+Row #104 $row['descrip'] returns "Quick View Carrying Case, Med. - Std. Base/Clear Trans.         "
+Row #104 $row['DESCRIP'] returns ""
+
+Row #105 $row['descrip'] returns "Quick View Carrying Case, Large - Std. Base/Clear Trans.        "
+Row #105 $row['DESCRIP'] returns ""
+
+Row #106 $row['descrip'] returns "Bobbin Box, Translucent                                         "
+Row #106 $row['DESCRIP'] returns ""
+
+Row #107 $row['descrip'] returns "Bobbin Box, Large - Translucent Clear                           "
+Row #107 $row['DESCRIP'] returns ""
+
+Row #108 $row['descrip'] returns "Essentials, 3 Tray XL - Black                                   "
+Row #108 $row['DESCRIP'] returns ""
+
+Row #109 $row['descrip'] returns "Essentials, Lift out Tray - Trans. w/Black Latches & Handle     "
+Row #109 $row['DESCRIP'] returns ""
+
+Row #110 $row['descrip'] returns "Upscale Storage Box, 2 Tray - Metal Links/Slate Gray            "
+Row #110 $row['DESCRIP'] returns ""
+
+Row #111 $row['descrip'] returns "Sidekick, Translucent                                           "
+Row #111 $row['DESCRIP'] returns ""
+
+Row #112 $row['descrip'] returns "Upscale Storage Box, 3 Tray - Metal Links/Slate Grey            "
+Row #112 $row['DESCRIP'] returns ""
+
+Row #113 $row['descrip'] returns "Slide n' Store, 24 Compart. W/Sliding Lid - Clear               "
+Row #113 $row['DESCRIP'] returns ""
+
+Row #114 $row['descrip'] returns "Box, Super Satchel 6 Fixed Divided Compartments - Clear         "
+Row #114 $row['DESCRIP'] returns ""
+
+Row #115 $row['descrip'] returns "Super Satchel Thread Box, Translucent                           "
+Row #115 $row['DESCRIP'] returns ""
+
+Row #116 $row['descrip'] returns "Infinite Divider System Box, W/8 Dividers - Translucent         "
+Row #116 $row['DESCRIP'] returns ""
+
+Row #117 $row['descrip'] returns "Infinite Divider System, 900 Divider Pack - Translucent         "
+Row #117 $row['DESCRIP'] returns ""
+
+Row #118 $row['descrip'] returns "Prism Box, 18 Compartment - Transparent                         "
+Row #118 $row['DESCRIP'] returns ""
+
+Row #119 $row['descrip'] returns "Pencil/Marker Box, Single Compartment - Black                   "
+Row #119 $row['DESCRIP'] returns ""
+
+Row #120 $row['descrip'] returns "Brush Box, Foam Inserts - Translucent                           "
+Row #120 $row['DESCRIP'] returns ""
+

@@ -9,7 +9,7 @@ Notes:
 $mode = $_GET['mode'];
 
 if($mode == 'devart') {
-    $foxproConnection = odbc_connect("Driver={Devart ODBC Driver for xBase};Database=/srv/www/sbt64/root/fptest/db;DBF Format=FoxPro2;IndexOnReading=Local;Code Page=UnitedStatesOEM;", '', '');
+    $foxproConnection = odbc_connect("Driver={Devart ODBC Driver for xBase};Database=/srv/www/sbt64/root/devart/db;DBF Format=FoxPro2;IndexOnReading=Local;Code Page=UnitedStatesOEM;IdentifierCase=icLower;", '', '');
     $file = '/srv/www/sbt64/root/fptest/results/devart.txt';
 } else {
     $foxproConnection = odbc_connect("Driver={Microsoft FoxPro VFP Driver (*.DBF)};SourceType=DBF;SourceDB=F:\TEMP\DBTEST;Exclusive=No; Collate=Machine;NULL=NO;DELETED=NO;BACKGROUNDFETCH=NO;", '', '');
@@ -17,6 +17,7 @@ if($mode == 'devart') {
 }
 
 if (!$foxproConnection) {
+    echo odbc_error($foxproConnection);
     die("Connection to foxpro could not be made.");
 } else {
     echo 'foxpro Connection okay...<br>';
@@ -48,7 +49,9 @@ while($row=odbc_fetch_array($results)) {
     $i++;
 }
 
-file_put_contents($file, $output);
+echo "<pre>".$output."</pre>";
+
+//file_put_contents($file, $output);
 
 echo 'foxpro finished!<br>';
 ?>

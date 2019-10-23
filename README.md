@@ -10,3 +10,5 @@ The problem lies with the connection settings. We can't run updates to this tabl
 - "VisualFoxPro" and "Local" works.
 - "FoxPro2" and "Native" doesn't work.
 - "FoxPro2" and "Local" works.
+
+The reverse of this issue is the problem for all of our other databases. All of them have their own indexes so we need to use "Native" to update them properly. "Local" never works, except in this one case.

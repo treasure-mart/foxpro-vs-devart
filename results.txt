@@ -1,0 +1,3 @@
+TEST is "0"
+
+[Devart][ODBC][xBase]Invalid variant type castUPDATE ARCUST01 SET pnet = 0;

@@ -45,7 +45,7 @@ while($row=odbc_fetch_array($results)) {
 
 $query = "UPDATE ARCUST01 SET pnet = 0;";
 
-$results = odbc_exec($foxproConnection, $query) or die ($output .= PHP_EOL.odbc_errormsg($foxproConnection).$query);
+$results = odbc_exec($foxproConnection, $query) or die (file_put_contents($file, $output.odbc_errormsg($foxproConnection).$query));
 
 echo "<pre>".$output."</pre>";
 

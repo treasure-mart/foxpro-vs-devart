@@ -9,8 +9,8 @@ Notes:
 $mode = $_GET['mode'];
 
 if($mode == 'devart') {
-    $foxproConnection = odbc_connect("Driver={Devart ODBC Driver for xBase};Database=/srv/www/sbt64/root/devart/db;DBF Format=FoxPro2;IndexOnReading=Local;Code Page=UnitedStatesOEM;IdentifierCase=icLower;", '', '');
-    $file = '/srv/www/sbt64/root/fptest/results/devart.txt';
+    $foxproConnection = odbc_connect("Driver={Devart ODBC Driver for xBase};Database=/srv/www/sbtdev/root/db;DBF Format=FoxPro2;IndexOnReading=Local;Code Page=UnitedStatesOEM;IdentifierCase=icLower;", '', '');
+    $file = '/srv/www/sbtdev/root/case/results/devart.txt';
 } else {
     $foxproConnection = odbc_connect("Driver={Microsoft FoxPro VFP Driver (*.DBF)};SourceType=DBF;SourceDB=F:\TEMP\DBTEST;Exclusive=No; Collate=Machine;NULL=NO;DELETED=NO;BACKGROUNDFETCH=NO;", '', '');
     $file = 'C:\www\foxy\fptest\results\legacy.txt';

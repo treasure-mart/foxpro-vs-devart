@@ -1,0 +1,17 @@
+Query that returns all records from database:
+
+SELECT custno, entered FROM ARCUST01;
+
+Results:
+
+TEST3 was created on "1985-12-31"
+TEST2 was created on "2019-12-31"
+TEST was created on "2001-12-31"
+
+Query that returns records filtered between 2000 and 2015:
+
+SELECT custno, entered FROM ARCUST01 WHERE entered BETWEEN 2000-01-01 AND 2015-01-01;
+
+Results:
+
+<nothing>
